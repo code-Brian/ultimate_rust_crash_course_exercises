@@ -1,0 +1,1 @@
+/Users/Brian.Denmark/Documents/code/learning/Rust/ultimate_rust_crash_course_exercises/hello/target/debug/hello: /Users/Brian.Denmark/Documents/code/learning/Rust/ultimate_rust_crash_course_exercises/hello/src/main.rs
